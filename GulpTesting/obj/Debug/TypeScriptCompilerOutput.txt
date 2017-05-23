@@ -1,0 +1,8 @@
+C:\Ashok\GulpTesting\GulpTesting\GulpTesting\main.js
+C:\Ashok\GulpTesting\GulpTesting\GulpTesting\app\app.component.spec.js
+C:\Ashok\GulpTesting\GulpTesting\GulpTesting\app\app.component.js
+C:\Ashok\GulpTesting\GulpTesting\GulpTesting\app\app.module.js
+C:\Ashok\GulpTesting\GulpTesting\GulpTesting\main.js
+C:\Ashok\GulpTesting\GulpTesting\GulpTesting\app\app.component.spec.js
+C:\Ashok\GulpTesting\GulpTesting\GulpTesting\app\app.component.js
+C:\Ashok\GulpTesting\GulpTesting\GulpTesting\app\app.module.js
